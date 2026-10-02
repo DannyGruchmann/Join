@@ -4,7 +4,7 @@ Join is a simple Kanban-style task management app built as a portfolio project.
 It helps you organize tasks across boards/columns and manage your workflow with an intuitive UI.
 
 ## Live Demo
-- http://danny-gruchmann.de/join/index.html
+- https://join.dannygruchmann.com
 
 ## Features
 - Kanban board with columns (boards/spalten)
